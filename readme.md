@@ -28,6 +28,7 @@ Se utiliza JSON para almacenar y manipular los datos de los vehículos.
 M4_AE1_ABP-Ejercicio individual
 |-- main.js
 |-- readme.md
+|-- vehiculos.json
 ```
 
 ### Instrucciones de uso

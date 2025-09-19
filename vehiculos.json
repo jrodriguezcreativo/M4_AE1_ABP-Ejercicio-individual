@@ -1,0 +1,31 @@
+{
+  "vehiculos": [
+    {
+      "tipo": "Auto",
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "año": 2020,
+      "color": "Rojo",
+      "kilometraje": 15000,
+      "numeroDePuertas": 4
+    },
+    {
+      "tipo": "Motocicleta",
+      "marca": "Honda",
+      "modelo": "CBR500R",
+      "año": 2021,
+      "color": "Negro",
+      "kilometraje": 5000,
+      "tipoDeManillar": "Deportivo"
+    },
+    {
+      "tipo": "Camion",
+      "marca": "Mercedes-Benz",
+      "modelo": "Actros",
+      "año": 2019,
+      "color": "Blanco",
+      "kilometraje": 80000,
+      "capacidadDeCarga": 18000
+    }
+  ]
+}
